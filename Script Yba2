@@ -7,7 +7,7 @@ getgenv().SellItemsOnMax = true -- Sells items when they reach the max otherwise
  
 getgenv().NotSupported = true -- VERY IMPORTANT, if your executor is bad ENABLE this, so it doesnt crash.
  
-getgenv().stepDistance = 25 --make tp go faster ONLY FOR SOLARA AND OTHER UNSUPPORTED EXECS
+getgenv().stepDistance = 15 --make tp go faster ONLY FOR SOLARA AND OTHER UNSUPPORTED EXECS
  
 getgenv().timeuntilitemcheck = 10 --How much time the script waits until it checks if it theres an item on the map, that you selected.
  
